@@ -15,7 +15,6 @@ A key feature is the **Representative Slicer** – selecting one of the five rep
 🔄 **Example: Selecting Representative A**  
 ![Rep A Screenshot](Pictures/Representative_1.png)
 
-*(Add your actual screenshots inside the `/images` folder and update the file names here.)*
 
 ---
 

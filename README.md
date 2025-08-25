@@ -12,7 +12,7 @@ A key feature is the **Representative Slicer** – selecting one of the five rep
 📊 **Overall Dashboard with Slicer**  
 ![Dashboard Screenshot](Pictures/All_Reps.png)
 
-🔄 **Example: Selecting Representative A**  
+🔄 **Example: Selecting Representative 1**  
 ![Rep A Screenshot](Pictures/Representative_1.png)
 
 
@@ -20,7 +20,7 @@ A key feature is the **Representative Slicer** – selecting one of the five rep
 
 ## 🔹 Features
 - 🎚️ **Interactive Slicer** → Filter by representative (5 in total)  
-- 📈 **KPIs** → Total Calls, Avg. Handling Time, Customer Satisfaction Score  
+- 📈 **KPIs** → Total Calls, Handling Time, Customer Satisfaction Score  
 - 📊 **Charts & Visuals** →  
   - Trend of calls over time  
   - Customer satisfaction by rep  
@@ -45,7 +45,7 @@ A key feature is the **Representative Slicer** – selecting one of the five rep
 ---
 
 ## 🔹 How to Use
-1. Download the Excel file from the [`dashboard/`](dashboard/) folder  
+1. Download the Excel file from the [`dashboard/`](Dashboard/) folder  
 2. Open in Excel (desktop version recommended)  
 3. Use the **Representative Slicer** to view individual performance dashboards  
 
